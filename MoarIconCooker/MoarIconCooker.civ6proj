@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Moar Icon Cooker</Name>
+    <Guid>d291c523-6c39-4d57-b466-70ad1b6f0a89</Guid>
+    <ProjectGuid>e7694b4b-c586-4abe-8608-b1ecfeae2e43</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Moar Icon Cooker</Teaser>
+    <Description>Moar Icon Cooker</Description>
+    <Authors>User</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <AssemblyName>MoarIconCooker</AssemblyName>
+    <RootNamespace>MoarIconCooker</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="UpdateArtGame"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="UpdateIconsGame"><File>Icons.xml</File></UpdateIcons></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateArt id="UpdateArtConfig"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateIcons id="UpdateIconsConfig"><File>Icons.xml</File></UpdateIcons></FrontEndActions>]]></FrontEndActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Mod.Art.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\africanForestElephantHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\africanForestElephantHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AmazonHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AmazonHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ApacheHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ApacheHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AssegaiHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AssegaiHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\BallistaHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\BallistaHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\BandeirantesHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\BandeirantesHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CamelArcherHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CamelArcherHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\cataphract_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\cataphract_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CreeHorsemanHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\CreeHorsemanHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\DruzhinaHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\DruzhinaHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\EquesHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\EquesHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\GallowglassHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\GallowglassHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\GendarmeHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\GendarmeHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HuiHuiPaoHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\HuiHuiPaoHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\IronsideHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\IronsideHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\JaguarHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\JaguarHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Khopesh_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Khopesh_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\KrisHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\KrisHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Landsknecht_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MapucheHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MapucheHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Medicine_Man_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Medicine_Man_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_22.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_22.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_256.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_256.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_32.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_32.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_38.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_38.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_50.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_50.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_80.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsFlags_80.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsPortraits_95.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\MOARUnitsPortraits_95.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Peltast_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Peltast_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\PhalanxHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\PhalanxHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sasr_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\sasr_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\SepoyHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\SepoyHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Shigong_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Shigong_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ShutterijHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\ShutterijHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\SoheiHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\SoheiHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TadzreuliHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TadzreuliHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tercio_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tercio_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TurtleShipHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TurtleShipHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\UhlanHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\UhlanHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\UlfhednarHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\UlfhednarHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\WarCanoeHM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\WarCanoeHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\icons.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

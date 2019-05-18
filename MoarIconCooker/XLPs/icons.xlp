@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>260</build>
+		<revision>754</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UI/Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_22"/>
+			<m_ObjectName text="MOARUnitsFlags_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_32"/>
+			<m_ObjectName text="MOARUnitsFlags_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_38"/>
+			<m_ObjectName text="MOARUnitsFlags_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_50"/>
+			<m_ObjectName text="MOARUnitsFlags_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_80"/>
+			<m_ObjectName text="MOARUnitsFlags_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsFlags_256"/>
+			<m_ObjectName text="MOARUnitsFlags_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MOARUnitsPortraits_95"/>
+			<m_ObjectName text="MOARUnitsPortraits_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="africanForestElephantHM"/>
+			<m_ObjectName text="africanForestElephantHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AmazonHM"/>
+			<m_ObjectName text="AmazonHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ApacheHM"/>
+			<m_ObjectName text="ApacheHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="AssegaiHM"/>
+			<m_ObjectName text="AssegaiHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BallistaHM"/>
+			<m_ObjectName text="BallistaHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BandeirantesHM"/>
+			<m_ObjectName text="BandeirantesHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CamelArcherHM"/>
+			<m_ObjectName text="CamelArcherHM"/>
+		</Element>	
+				<Element>
+			<m_EntryID text="CreeHorsemanHM"/>
+			<m_ObjectName text="CreeHorsemanHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DruzhinaHM"/>
+			<m_ObjectName text="DruzhinaHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="EquesHM"/>
+			<m_ObjectName text="EquesHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GallowglassHM"/>
+			<m_ObjectName text="GallowglassHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="GendarmeHM"/>
+			<m_ObjectName text="GendarmeHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Haida_HM"/>
+			<m_ObjectName text="Haida_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="HuiHuiPaoHM"/>
+			<m_ObjectName text="HuiHuiPaoHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IronsideHM"/>
+			<m_ObjectName text="IronsideHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="JaguarHM"/>
+			<m_ObjectName text="JaguarHM"/>
+		</Element>
+        <Element>
+			<m_EntryID text="Kronan_HM"/>
+			<m_ObjectName text="Kronan_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="KrisHM"/>
+			<m_ObjectName text="KrisHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MapucheHM"/>
+			<m_ObjectName text="MapucheHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="PhalanxHM"/>
+			<m_ObjectName text="PhalanxHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SepoyHM"/>
+			<m_ObjectName text="SepoyHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ShutterijHM"/>
+			<m_ObjectName text="ShutterijHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SoheiHM"/>
+			<m_ObjectName text="SoheiHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="TadzreuliHM"/>
+			<m_ObjectName text="TadzreuliHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="TurtleShipHM"/>
+			<m_ObjectName text="TurtleShipHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UhlanHM"/>
+			<m_ObjectName text="UhlanHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="UlfhednarHM"/>
+			<m_ObjectName text="UlfhednarHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WarCanoeHM"/>
+			<m_ObjectName text="WarCanoeHM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Medicine_Man_HM"/>
+			<m_ObjectName text="Medicine_Man_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Khopesh_HM"/>
+			<m_ObjectName text="Khopesh_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Landsknecht_HM"/>
+			<m_ObjectName text="Landsknecht_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Tercio_HM"/>
+			<m_ObjectName text="Tercio_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Shigong_HM"/>
+			<m_ObjectName text="Shigong_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Peltast_HM"/>
+			<m_ObjectName text="Peltast_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="cataphract_HM"/>
+			<m_ObjectName text="cataphract_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="sasr_HM"/>
+			<m_ObjectName text="sasr_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Sipahi_HM"/>
+			<m_ObjectName text="Sipahi_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Numidian_HM"/>
+			<m_ObjectName text="Numidian_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Longbowman_HM"/>
+			<m_ObjectName text="Longbowman_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Kalandozo_HM"/>
+			<m_ObjectName text="Kalandozo_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Chasqui_HM"/>
+			<m_ObjectName text="Chasqui_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Tupara_HM"/>
+			<m_ObjectName text="Tupara_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Templar_HM"/>
+			<m_ObjectName text="Templar_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Sofa_HM"/>
+			<m_ObjectName text="Sofa_HM"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
