@@ -213,6 +213,14 @@
 			<m_EntryID text="Sofa_HM"/>
 			<m_ObjectName text="Sofa_HM"/>
 		</Element>
+        <Element>
+            <m_EntryID text="British_Legion_HM"/>
+            <m_ObjectName text="British_Legion_HM"/>
+        </Element>
+        <Element>
+            <m_EntryID text="Mayan_Holkan_HM"/>
+            <m_ObjectName text="Mayan_Holkan_HM"/>
+        </Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
