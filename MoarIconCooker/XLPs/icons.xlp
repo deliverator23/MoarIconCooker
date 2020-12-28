@@ -221,6 +221,18 @@
             <m_EntryID text="Mayan_Holkan_HM"/>
             <m_ObjectName text="Mayan_Holkan_HM"/>
         </Element>
+		<Element>
+			<m_EntryID text="Carrus_HM"/>
+			<m_ObjectName text="Carrus_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Varangian_HM"/>
+			<m_ObjectName text="Varangian_HM"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Mehal_HM"/>
+			<m_ObjectName text="Mehal_HM"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
