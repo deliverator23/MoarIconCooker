@@ -233,6 +233,10 @@
 			<m_EntryID text="Mehal_HM"/>
 			<m_ObjectName text="Mehal_HM"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Babylon_HM"/>
+			<m_ObjectName text="Babylon_HM"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>

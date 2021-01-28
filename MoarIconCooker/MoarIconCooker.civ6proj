@@ -51,6 +51,12 @@
     <Content Include="Textures\AssegaiHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Babylon_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Babylon_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\BallistaHM.dds">
       <SubType>Content</SubType>
     </Content>
@@ -63,16 +69,34 @@
     <Content Include="Textures\BandeirantesHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\British_Legion_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\British_Legion_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\CamelArcherHM.dds">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\CamelArcherHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Carrus_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Carrus_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\cataphract_HM.DDS">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\cataphract_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Chasqui_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Chasqui_HM.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\CreeHorsemanHM.dds">
@@ -105,6 +129,12 @@
     <Content Include="Textures\GendarmeHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Haida_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Haida_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\HuiHuiPaoHM.dds">
       <SubType>Content</SubType>
     </Content>
@@ -123,6 +153,12 @@
     <Content Include="Textures\JaguarHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Kalandozo_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kalandozo_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Khopesh_HM.DDS">
       <SubType>Content</SubType>
     </Content>
@@ -135,10 +171,22 @@
     <Content Include="Textures\KrisHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Kronan_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Kronan_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Landsknecht_HM.DDS">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Landsknecht_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Longbowman_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Longbowman_HM.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MapucheHM.dds">
@@ -147,10 +195,22 @@
     <Content Include="Textures\MapucheHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Mayan_Holkan_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Mayan_Holkan_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Medicine_Man_HM.DDS">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Medicine_Man_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Mehal_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Mehal_HM.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\MOARUnitsFlags_22.dds">
@@ -195,6 +255,12 @@
     <Content Include="Textures\MOARUnitsPortraits_95.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Numidian_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Numidian_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Peltast_HM.DDS">
       <SubType>Content</SubType>
     </Content>
@@ -231,6 +297,18 @@
     <Content Include="Textures\ShutterijHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Sipahi_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sipahi_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sofa_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Sofa_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\SoheiHM.dds">
       <SubType>Content</SubType>
     </Content>
@@ -243,10 +321,22 @@
     <Content Include="Textures\TadzreuliHM.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Templar_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Templar_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Tercio_HM.DDS">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Tercio_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_HM.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Tupara_HM.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\TurtleShipHM.dds">
@@ -265,6 +355,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\UlfhednarHM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Varangian_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Varangian_HM.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\WarCanoeHM.dds">
