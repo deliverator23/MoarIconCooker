@@ -237,6 +237,10 @@
 			<m_EntryID text="Babylon_HM"/>
 			<m_ObjectName text="Babylon_HM"/>
 		</Element>
+		<Element>
+			<m_EntryID text="VietCong_HM"/>
+			<m_ObjectName text="VietCong_HM"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
