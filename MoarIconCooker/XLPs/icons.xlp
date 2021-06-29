@@ -241,6 +241,10 @@
 			<m_EntryID text="VietCong_HM"/>
 			<m_ObjectName text="VietCong_HM"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Aviz_HM"/>
+			<m_ObjectName text="Aviz_HM"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
